@@ -1,5 +1,3 @@
 # first-rep
 
-hi
-
-hello
+For practicing!
