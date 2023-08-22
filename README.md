@@ -4,4 +4,3 @@ Hello!
 
 For practicing!
 
-First attempt！
